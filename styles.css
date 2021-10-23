@@ -1,0 +1,39 @@
+.container {
+    margin-top: 100px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+
+body {
+    background: url("https://www.teahub.io/photos/full/1-14195_4k-green-blurred-background-hd-desktop-wallpaper-blur.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+.choose-class {
+    font-size: 20px;
+}
+
+.upload {
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    /* height:18em; */
+    margin-top: -9em; /*set to a negative number 1/2 of your height*/
+    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    border: 1px solid #ccc;
+    background-color: #f3f3f3;
+    font-size: 25px;
+    padding: 20px;
+    border-radius: 10px;
+    /* text-align: center; */
+}
